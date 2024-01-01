@@ -97,24 +97,24 @@ li{
 }
 
 .edu{
-    border:6px solid #D9D8D9;
-    background-color: #D9D8D980;
+    border:6px solid #FFFFFF;
+    background-color: #FFFFFF80;
 }
 
 .pro{
-    border:6px solid #D9D8D9;
-    background-color: #D9D8D980;
+    border:6px solid #FFFFFF;
+    background-color: #FFFFFF80;
 }
 
 .certi{
-    border:6px solid #D9D8D9;
-    background-color: #D9D8D980;
-}
+    border:6px solid #FFFFFF;
+    background-color: #FFFFFF80;
+}    
 
 .skill{
-    border:6px solid #D9D8D9;
-    background-color: #D9D8D980;
-}
+    border:6px solid #FFFFFF;
+    background-color: #FFFFFF80;
+}    
 
 .my{
     font-size: 50px;
@@ -139,13 +139,13 @@ li{
 }
 
 .work{
-    border:6px solid #D9D8D9;
-    background-color: #D9D8D980;
+    border:6px solid #FFFFFF;
+    background-color: #FFFFFF80;
 }
 
 .con{
-    border:6px solid #D9D8D9;
-    background-color: #D9D8D980;
+    border:6px solid #FFFFFF;
+    background-color: #FFFFFF80;
 }
 
 .work-con{
@@ -167,8 +167,8 @@ li{
 }
 
 .abt{
-    border:6px solid #D9D8D9;
-    background-color: #D9D8D980;
+    border:6px solid #FFFFFF;
+    background-color: #FFFFFF80;
     margin: 10px;
 }
 
@@ -184,19 +184,19 @@ li{
     }
 
     .name h1{
-        font-size: 40px;
+        font-size: 35px;
         margin:20px;
         text-align: center;
     }
     
     .name h2{
-        font-size: 30px;
+        font-size: 25px;
         margin:10px;
         text-align: center;
     }
     
     .name p{
-        font-size:20px;
+        font-size:17px;
         margin: 2px;
         text-align: center;
     }
@@ -216,37 +216,37 @@ li{
         display: flex;
         flex-direction: column;
         justify-content: center;
-        margin:20px;
+        margin:10px;
     }
 
     .edu-pro{
         display: flex;
         flex-direction: column;
         justify-content: center;
-        margin:20px;
+        margin:10px;
     }
     
     .skill-certi{
         display: flex;
         flex-direction: column;
         justify-content: center;
-        margin:20px;
+        margin:10px;
     }
 
     .card{
         padding: 10px;
-        margin: 20px;
+        margin: 10px;
     }
 
     .card-body{
         border-radius: 2%;
         height:250px;
         width:700px;
-        margin: 20px;
+        margin: 10px;
     }
     
     .abt p{
-        font-size: 10px ;
+        font-size: 12px ;
         margin: 10px;
         text-align: center;
     }
